@@ -10,9 +10,13 @@ Summer is one of the best times for camping. Unfortunately, the heat can turn yo
 
 A good camping fan can help to keep your tent or camper cool, making it a must-have camping gear for those camping or overlanding in hot weather. In this guide, we’ll cover the factors to consider when looking for the best tent fan and highlight some of our favorite options.
 
+<div class="_form_23"></div><script src="https://emery.activehosted.com/f/embed.php?id=23" type="text/javascript" charset="utf-8"></script>
+
 ## **How to Choose a Tent Fan**
 
 It is not easy to choose a tent fan for camping as, frankly, they can all start to look the same. To help you better discern the differences, here are a few factors to keep in mind.
+
+
 
 ### **Construction**
 
@@ -52,10 +56,10 @@ OUR TOP PICK
 
 Coleman’s OneSource Rechargeable Fan is part of the company’s [OneSource series of products](https://www.amazon.com/stores/page/0319F4D9-CA4D-425F-A90B-19A841D87676?ingress=0&visitId=c3fd7046-d081-4d12-9c5c-e1dde3f83f0d&store_ref=SLP_FW_1AE69CA2-BE8F-43CB-809B-5F9A555EB7CC&linkCode=ll2&tag=ordealist-20&linkId=923d14e5c6b5cd86c237dc628d11ed6f&language=en_US&ref_=as_li_ss_tl), a range of camping gear that all uses the same lithium battery system (the battery doubles as a flashlight). The OneSource fan is water-resistant and purposed-designed to withstand outdoor elements. This adjustable speed camping fan can last for 15 hours running at the lowest mode with a fully charged 4800 MAh. It takes around two hours to recharge. The tripod legs fold up for stowing and so you can hang the fan inside your tent or camper.
 
-- Power Source: Rechargeable Battery/USB plug
-- Design: Hanging/standing
-- Run time: 6 to 15 hours
-- Size: 12 x 8 x 6 inches
+* Power Source: Rechargeable Battery/USB plug
+* Design: Hanging/standing
+* Run time: 6 to 15 hours
+* Size: 12 x 8 x 6 inches
 
 BEST FOR BIG TENTS AND CAMPERS
 
@@ -69,16 +73,16 @@ The Geek Aire Outdoors Floor Fan is a rechargeable camping fan that moves some s
 
 The Geek Aire fan is easy to carry using the large grip handle and switch between speeds using a turning knob. Its sturdy metal construction and water-resistant design make it plenty rugged for camp life. Note that this is only a floor fan and doesn't come with a hook for hanging.
 
-- Power Source: Rechargeable Battery/USB cord
-- Design: Standing
-- Max airflow: 1500 CFM
-- Run time: 4 to 24 hours
-- Size: 15 x 7 x 16.75 inches
-- Weight: 6.9 lbs
+* Power Source: Rechargeable Battery/USB cord
+* Design: Standing
+* Max airflow: 1500 CFM
+* Run time: 4 to 24 hours
+* Size: 15 x 7 x 16.75 inches
+* Weight: 6.9 lbs
 
 BEST ON A BUDGET
 
-### \***\*Coleman CPX 6 Lighted Tent Fan\*\***
+### \***\*Coleman CPX 6 Lighted Tent Fan\****
 
 [![](./images/coleman_cpx_fan.jpg)](https://www.amazon.com/Coleman-CPX-Lighted-Tent-Stand/dp/B008DCYDH8?dchild=1&keywords=Coleman+CPX+6+Lighted+Tent+Fan&qid=1612227694&sr=8-2&linkCode=ll1&tag=ordealist-20&linkId=219f1ec74c9c33bce060a82406a4f4a8&language=en_US&ref_=as_li_ss_tl)
 
@@ -88,9 +92,9 @@ Coleman’s CPX 6 is a durable tent fan that has a unique hanging system with a 
 
 The lightweight, innovative tent fan also comes with a 99 lumens flashlight with two light modes. Also, you can switch between two fan speeds depending on your liking. On low, the CPX 6 runs for up to 30 hours, the longest run time on this list.
 
-- Power Source: Battery Powered/AC adapters
-- Design: Hanging/Standing
-- Run time: Up to 30 hours
+* Power Source: Battery Powered/AC adapters
+* Design: Hanging/Standing
+* Run time: Up to 30 hours
 
 ## **Conclusion**
 
